@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ea21c5d8ff5e8241972f1244a04192c, type: 3}
   m_Name: Speaker
   m_EditorClassIdentifier: 
-  speakerName: Gatito
-  textColor: {r: 0.9056604, g: 0.8964095, b: 0.61858314, a: 1}
+  speakerName: 
+  textColor: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 0}

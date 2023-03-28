@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0687e6556d85a1e4ebfa21c503aa345e, type: 3}
+  m_Name: Choosing Right
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'The colors. . . I was a painter. '
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: 'And the warmth. . . that was from my cat. He used to love sleeping on
+      my lap. '
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: His name was Marshmallow.
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: 'He always kept me company while I painted. . . but then he passed away. '
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: 'And after he died, I never painted again. Every time I would pick up a
+      paintbrush, tears would soon follow. It was too painful to paint without him
+      by my side. '
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: 'So I gave up my passion for painting entirely. And because of it my soul
+      became empty. '
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: 'Oh, you sweet soul. The longing and sadness you were feeling was for both
+      your furry friend and your passion. From here on out, I wish nothing but fulfillment
+      and peace for your soul! '
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  background: {fileID: 21300000, guid: 7b0bcb40a2813401ab5497eefc3fb057, type: 3}
+  nextScene: {fileID: 11400000, guid: fdb2f439826824e72ad7168b84a4776c, type: 2}

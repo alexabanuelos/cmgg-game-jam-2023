@@ -13,8 +13,107 @@ MonoBehaviour:
   m_Name: 1st Scene
   m_EditorClassIdentifier: 
   sentences:
+  - text: (Tending to the boutique. . .)
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
   - text: "*sigh* I do hope a soul wanders in soon. I\u2019m getting quite bored
       being here all by my lonesome. "
     speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
-  background: {fileID: 21300000, guid: 5a4a668760118a24daed5e163726936c, type: 3}
-  nextScene: {fileID: 11400000, guid: d0389319b4a48844daaed7ec1a1f8356, type: 2}
+  - text: '*Door opens*'
+    speaker: {fileID: 11400000, guid: 0bb613001d5d8294d9da904b1b7f63c4, type: 2}
+  - text: Hello?. . . Where am I? What is this place?. . . Why do I feel like something
+      is . . missing?
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: 'Well hello there! Welcome to Boutique Caeleste! '
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: This is what some may call limbo. However, my fine establishment is of
+      much more superiority than your typical dull purgatory.
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: OMG I'M DEAD?!
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: . . .
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: Wait. . . I used to be alive?. . . What am I?
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: . . .Aghh, and why do I feel so weird?
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: I don't understand. . . Why do I feel some kind of deep longing and sadness.
+      . . if I can't remeber anything before ending up here?
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: "Do not fret my friend! What you\u2019re feeling is completely normal.
+      You are, what we call in the afterlife, a lost soul. "
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: But fortunately for you, here, in my boutique, I will help you find what
+      you long for.
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: By dressing you in the finest clothes that will suit your soul for its
+      departure to heaven.
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: "Now. . . let\u2019s start slow. Can you remember your name? "
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Uhhh. . .no. . .everything is so fuzzy.
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: 'Hmm, ok. . . How about something in relation to your name? Does a sensation,
+      sound, smell, or emotion come up when I ask:'
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: What's your name?
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: (In deep concentration)
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: Umm. . .the color blue pops up. There's a lot of it. . . and for some reason
+      I'm also covered in it.
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: Good! Lean into that, what else?
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: '. . .There''s something bright and warm. '
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: Hmm. . .maybe your name has some sort of correlation with light?
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Or maybe the sun?
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: SOL!
+    speaker: {fileID: 11400000, guid: 73b43e9b3ef55403ab692027b5b1ca00, type: 2}
+  - text: Sol? Your name is Sol?
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: '*The soul turns into her passed human form*'
+    speaker: {fileID: 11400000, guid: 0bb613001d5d8294d9da904b1b7f63c4, type: 2}
+  - text: My name is Marisol!
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: Wonderful! What a wonderful name! And what a wonderful vessel!
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Now that explains the blue!. . . I do have to say though. . . i'ts a bit
+      peculiar that you didn't think about the ocean but rather the color blue itself.
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Nonetheless, we are getting close!
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Let us now pay closer attention to how you're feeling.
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Aside from the heaviness of your heart. Do you remember what brought you
+      happiness?
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Happiness?
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: . . .Colors. . . and warmth.
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: '*sniffs* '
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: '*starts tearing up*'
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: 'I''m sorry. . . I don''t know why I feel like crying. '
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: 'It''s ok, please take your time. The fog in your memories is starting
+      to clear up and new feelings are emerging. '
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: 'Colors and warmth. . . hmm. . . '
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Yes, colors. . . creating! Creating with colors brought me happiness and
+      some sort of warmth gave me comfot.
+    speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
+  - text: Hm. . .
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: 'Alright! Based on what you''ve told me, I think I know what attire your
+      soul needs. '
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  - text: Let's get you dressed!
+    speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
+  background: {fileID: 21300000, guid: 19a97705d214840f1bca95b1968cdd85, type: 3}
+  nextScene: {fileID: 11400000, guid: 4bcc1f85584294f409932642fdb071f9, type: 2}
