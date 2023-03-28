@@ -80,7 +80,7 @@ MonoBehaviour:
     speaker: {fileID: 11400000, guid: 567a676b660a09745a7d12ea6c62fc68, type: 2}
   - text: Wonderful! What a wonderful name! And what a wonderful vessel!
     speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
-  - text: Now that explains the blue!. . . I do have to say though. . . i'ts a bit
+  - text: Now that explains the blue!. . . I do have to say though. . . it's a bit
       peculiar that you didn't think about the ocean but rather the color blue itself.
     speaker: {fileID: 11400000, guid: a72dd84f8587b78429dc1a4d01de32ab, type: 2}
   - text: Nonetheless, we are getting close!

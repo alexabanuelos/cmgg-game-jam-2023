@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Soul
   m_EditorClassIdentifier: 
   speakerName: Soul
-  textColor: {r: 0.92941177, g: 0.76862746, b: 1, a: 0}
+  textColor: {r: 0.92941177, g: 0.76862746, b: 1, a: 0.6666667}
